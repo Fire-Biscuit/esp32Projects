@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "esp_log.h": "c",
+        "esp_intr_alloc.h": "c",
+        "utilities.h": "c"
+    }
+}

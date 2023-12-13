@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ssd1306.h": "c",
+        "task.h": "c",
+        "stdio.h": "c",
+        "oled.h": "c",
+        "adc.h": "c",
+        "gpiostuff.h": "c",
+        "pinnumbers.h": "c",
+        "freertos.h": "c"
+    }
+}
